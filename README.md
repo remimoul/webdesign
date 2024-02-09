@@ -9,7 +9,7 @@ Ceci est un exercice qui a pour but d'utiliser un framework CSS dans ce projet q
 Clonez ce dépôt et installez les dépendances avec `npm install`.
 
 ```bash
-git clone https://github.com/remimoul/modif-csv.git
+git clone https://github.com/remimoul/webdesign.git
 cd modif-csv
 npm install
 ```
