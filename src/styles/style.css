@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Bison';
+    src: url('../assets/font/Bison-Bold.ttf') format('truetype');
+}
+
+* {
+    font-family: 'Bison', sans-serif;
+}
+
